@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Israel, a 21-year-old student passionate about coding and technology <br>💻 Currently, I'm diving into web and software development <br>🌐 With experience in Kotlin, JavaScript, Laravel, Angular, Java, MySQL, and more! 🎓<br><br>I love solving problems, learning new frameworks, and collaborating on exciting projects 🤝. Always eager to contribute to open-source and grow as a developer 🚀. Let’s build something amazing together!<br><br>Feel free to check out my repositories! 📂
+👋 Hi there! I'm Israel, a 21-year-old student passionate about coding and technology <br>💻 Currently, I'm diving into web, mobile and software development <br>🌐 With experience in Kotlin, JavaScript, Laravel, Angular, Java, MySQL, and more! 🎓<br><br>I love solving problems, learning new frameworks, and collaborating on exciting projects 🤝. Always eager to contribute to open-source and grow as a developer 🚀. Let’s build something amazing together!<br><br>Feel free to check out my repositories! 📂
 
 
 # 💻 Tech Stack:
